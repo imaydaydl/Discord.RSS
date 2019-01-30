@@ -45,7 +45,7 @@
     "checkDates": true,
     "formatTables": false,
     "toggleRoleMentions": false,
-    "decode": {}
+    "decode": {windows-1251}
   },
   "advanced": {
     "shards": 2,
